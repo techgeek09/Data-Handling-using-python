@@ -1,0 +1,389 @@
+bike_name,price,city,kms_driven,owner,age,power,brand
+Royal Enfield Classic 350cc,119900,Delhi,11000,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc,145000,Bangalore,9190,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird X 500cc,190500,Samastipur,4550,First Owner,2,500,Royal Enfield
+Royal Enfield Thunderbird X 350cc,150000,Bangalore,15000,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,115000,Bangalore,23700,First Owner,4,350,Royal Enfield
+Royal Enfield Interceptor 650cc,260000,Navi Mumbai,3800,First Owner,2,650,Royal Enfield
+Royal Enfield Himalayan 410cc,118000,Gurgaon,19000,First Owner,4,410,Royal Enfield
+Royal Enfield Himalayan 410cc Fi ABS,173300,Vadodara,14000,First Owner,2,410,Royal Enfield
+Royal Enfield Standard 350cc,115000,Hyderabad,14900,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,130000,Delhi,8419,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,123600,Jaipur,7702,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,107000,Ahmedabad,17000,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet 500cc,160000,Bangalore,3500,First Owner,3,500,Royal Enfield
+Royal Enfield Electra 350cc,145000,Bangalore,4000,First Owner,2,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,149000,Mumbai,7000,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,140000,Mumbai,11000,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Electra 350cc,115000,Hyderabad,15500,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,102500,Delhi,21000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,130000,Delhi,10149,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,130000,Delhi,7036,First Owner,3,350,Royal Enfield
+Royal Enfield Himalayan 410cc Fi ABS,177982,Hamirpur(hp),7000,First Owner,2,410,Royal Enfield
+Royal Enfield Himalayan 410cc Fi ABS,202000,Bangalore,11000,First Owner,2,410,Royal Enfield
+Royal Enfield Classic 350cc,105000,Delhi,16000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc-Redditch Edition,115000,Delhi,10000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Desert Storm 500cc Dual Disc,175000,Hyderabad,11277,First Owner,3,500,Royal Enfield
+Royal Enfield Interceptor 650cc,280000,Bangalore,1500,First Owner,2,650,Royal Enfield
+Royal Enfield Classic 350cc,135000,Delhi,2200,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,131100,Gurgaon,6200,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,126000,Bangalore,23000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc ABS,160000,Mumbai,7500,First Owner,2,350,Royal Enfield
+Royal Enfield Classic 350cc,143000,Bangalore,7000,First Owner,3,350,Royal Enfield
+Royal Enfield Interceptor 650cc,265000,Bangalore,12900,First Owner,2,650,Royal Enfield
+Royal Enfield Classic 350cc,133000,Delhi,8000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,150000,Delhi,4000,First Owner,2,350,Royal Enfield
+Royal Enfield Bullet Electra Twinspark 350cc,126000,Delhi,6518,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,131000,Delhi,9900,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,123000,Jalandhar,900,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,130000,Bangalore,6200,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,115000,Delhi,14000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,143500,Delhi,5700,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,118000,Delhi,10000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,129500,Delhi,6300,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,130000,Mumbai,20000,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Electra Twinspark 350cc,119000,Faridabad,1403,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,120000,Gurgaon,16562,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 500cc,174600,Thane,9200,First Owner,4,500,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,110000,Jalandhar,9000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc-Redditch Edition Dual Disc,154900,Bangalore,7050,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,125000,Bangalore,33000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,130000,Delhi,11200,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,135000,Delhi,9000,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,133700,Hubli,2000,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,114000,Delhi,7500,First Owner,4,350,Royal Enfield
+Royal Enfield Himalayan 410cc Fi ABS,180000,Guwahati,200,First Owner,2,410,Royal Enfield
+Royal Enfield Thunderbird 350cc ABS,175000,Delhi,2382,First Owner,2,350,Royal Enfield
+Royal Enfield Classic Chrome 500cc,140000,Howrah,5200,First Owner,4,500,Royal Enfield
+Royal Enfield Thunderbird X 350cc ABS,155000,Vadodara,1650,First Owner,2,350,Royal Enfield
+Royal Enfield Thunderbird 500cc,180000,Mumbai,9500,First Owner,3,500,Royal Enfield
+Royal Enfield Classic 500cc Dual Disc,175000,Mumbai,16786,First Owner,3,500,Royal Enfield
+Royal Enfield Thunderbird 500cc,155000,Mumbai,5192,First Owner,4,500,Royal Enfield
+Royal Enfield Thunderbird 350cc ABS,148000,Haldwani,7300,First Owner,2,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc,160000,Hyderabad,5800,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc ABS,155000,Ahmedabad,12000,First Owner,2,350,Royal Enfield
+Royal Enfield Classic 350cc,165000,Chandigarh,18348,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc-Redditch Edition,86700,Faridabad,28154,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Stealth Black 500cc,152000,Rewari,8000,First Owner,3,500,Royal Enfield
+Royal Enfield Classic 350cc,140000,Ghaziabad,17931,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,136000,Faridabad,2719,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,135000,Ghaziabad,14878,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,130000,Delhi,16500,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,115000,Delhi,7850,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,125000,Delhi,4500,First Owner,3,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc ABS,150000,Bardhaman,1800,First Owner,2,350,Royal Enfield
+Royal Enfield Classic 350cc,151000,Delhi,1500,First Owner,3,350,Royal Enfield
+Royal Enfield Interceptor 650cc,250000,Silchar,920,First Owner,2,650,Royal Enfield
+Royal Enfield Classic 350cc,116100,Rajkot,8000,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 500cc,150000,Roorkee,900,First Owner,4,500,Royal Enfield
+Royal Enfield Thunderbird 350cc,110000,Lucknow,24271,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,102100,Ludhiana,3884,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,130000,Mumbai,20000,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,115000,Ghaziabad,12500,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet 500cc,172000,Delhi,8000,First Owner,2,500,Royal Enfield
+Royal Enfield Classic 350cc,140000,Pune,7000,First Owner,4,350,Royal Enfield
+Royal Enfield Interceptor 650cc,265000,Delhi,11000,First Owner,2,650,Royal Enfield
+Royal Enfield Classic 350cc,115000,Delhi,8000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Desert Storm 500cc,175000,Pune,3400,First Owner,4,500,Royal Enfield
+Royal Enfield Thunderbird X 500cc,200000,Coimbatore,6300,First Owner,3,500,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,115000,Delhi,10000,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,125000,Mumbai,14000,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Electra Twinspark 350cc,142000,Mumbai,6800,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc-Redditch Edition,142000,Chennai,9500,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,135000,Mehsana,6151,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,127100,Faridabad,8000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,135000,Jalandhar,7000,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,111500,Delhi,29299,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc ABS,135000,Sibsagar,3800,First Owner,2,350,Royal Enfield
+Royal Enfield Classic 350cc,133000,Delhi,5600,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 350cc ABS,144700,Kharar,770,First Owner,2,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,160000,Mumbai,5000,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Twinspark Kickstart 350cc,145000,Delhi,5000,First Owner,2,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,125000,Delhi,8000,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc ABS,172000,Delhi,3800,First Owner,2,350,Royal Enfield
+Royal Enfield Himalayan 410cc Fi ABS,166000,Guwahati,250,First Owner,2,410,Royal Enfield
+Royal Enfield Classic 350cc,125000,Delhi,13800,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,105000,Faridabad,12822,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Chrome 500cc,159700,Pune,17346,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,115400,Bahadurgarh,11400,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Stealth Black 500cc,190000,Aurangabad,3600,First Owner,3,500,Royal Enfield
+Royal Enfield Interceptor 650cc,270000,Ahmedabad,6500,First Owner,2,650,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,109000,Jalandhar,6200,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc,148000,Jalandhar,3000,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,130000,Bangalore,20000,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet 500cc,164100,Delhi,8000,First Owner,2,500,Royal Enfield
+Royal Enfield Classic 350cc,123000,Jalandhar,8000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,135000,Jalandhar,3300,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet 350cc,115000,Ludhiana,9100,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc,160000,Hyderabad,4200,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,130000,Patna,13000,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 500cc,181200,Baripara,5000,First Owner,2,500,Royal Enfield
+Royal Enfield Classic 500cc,158400,Patna,2100,First Owner,4,500,Royal Enfield
+Royal Enfield Classic Desert Storm 500cc,140000,Godavari,16800,First Owner,3,500,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,145000,Jalandhar,3000,First Owner,3,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,148000,Jalandhar,4000,First Owner,3,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,145000,Jalandhar,4900,First Owner,3,350,Royal Enfield
+Royal Enfield Himalayan 410cc,125000,Pune,10312,First Owner,4,410,Royal Enfield
+Royal Enfield Interceptor 650cc,280000,Mumbai,5000,First Owner,2,650,Royal Enfield
+Royal Enfield Thunderbird X 350cc ABS,151300,Sonipat,14000,First Owner,2,350,Royal Enfield
+Royal Enfield Himalayan 410cc,131000,Murad Nagar,8700,First Owner,4,410,Royal Enfield
+Royal Enfield Classic 350cc Dual Disc,156000,Pune,6517,First Owner,2,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,135000,Bangalore,14171,First Owner,3,350,Royal Enfield
+Royal Enfield Interceptor 650cc,265000,Delhi,8500,First Owner,2,650,Royal Enfield
+Royal Enfield Classic 350cc,145000,Mumbai,12000,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,132000,Pune,9648,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Squadron Blue 500cc,175000,Noida,7000,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 500cc,190000,Mysore,4800,First Owner,4,500,Royal Enfield
+Royal Enfield Thunderbird 350cc,140000,Rajkot,8300,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,125000,Pune,10300,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 500cc,140000,Ernakulam,10000,First Owner,3,500,Royal Enfield
+Royal Enfield Bullet 500cc,150000,Hyderabad,35595,First Owner,3,500,Royal Enfield
+Royal Enfield Thunderbird X 350cc,138000,Kasargode,6500,First Owner,3,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,136424,Dhanbad,16000,First Owner,3,350,Royal Enfield
+Royal Enfield Standard 500cc,140000,Delhi,23444,First Owner,4,500,Royal Enfield
+Royal Enfield Classic Squadron Blue 500cc,130000,Faridabad,11191,First Owner,4,500,Royal Enfield
+Royal Enfield Thunderbird 350cc,123800,Jamalpur,2600,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet 350cc,99650,Chennai,27235,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,135000,Delhi,15559,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,150000,Hyderabad,3208,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,105200,Bhubaneshwar,20000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc Signals Edition,160000,Bangalore,10000,First Owner,2,350,Royal Enfield
+Royal Enfield Classic 350cc,125000,Gurgaon,3841,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Electra Twinspark 350cc Double Disc,135000,Howrah,2200,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,146000,Pune,5000,First Owner,4,350,Royal Enfield
+Royal Enfield Electra 350cc,105000,Pune,23397,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,109000,Purnia,35000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,146300,Hyderabad,750,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 500cc,128000,Bangalore,18552,First Owner,4,500,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc ABS,167000,Farukhabad,2500,First Owner,2,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,147000,Bangalore,200,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Electra Twinspark 350cc,100000,Delhi,11937,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,110000,Chennai,21000,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,105000,Nagaon,15000,First Owner,3,350,Royal Enfield
+Royal Enfield Electra 350cc,85500,Delhi,5645,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet 350cc,100000,Morbi,60000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 500cc,124000,Gurgaon,12827,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,118000,Gurgaon,15256,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Electra Twinspark 350cc,120000,Delhi,15148,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 500cc,120000,Noida,2701,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,130000,Delhi,2503,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,110000,Bangalore,10400,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,110000,Faridabad,10111,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,95000,Faridabad,8901,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,110000,Faridabad,9053,First Owner,4,350,Royal Enfield
+Royal Enfield Himalayan 410cc Fi ABS,184000,Bardhaman,1380,First Owner,2,410,Royal Enfield
+Royal Enfield Classic 500cc,120000,Gurgaon,12827,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,125000,Mumbai,36000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,132000,Tikamgarh,6100,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc-Redditch Edition,137000,Sultanpur,8400,First Owner,2,350,Royal Enfield
+Royal Enfield Electra 350cc,90000,Bihar Shariff,2000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,130000,Bangalore,13000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,120000,Faridabad,11000,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet 500cc,170000,Delhi,8015,First Owner,2,500,Royal Enfield
+Royal Enfield Classic Desert Storm 500cc Dual Disc,239000,Mumbai,1264,First Owner,2,500,Royal Enfield
+Royal Enfield Bullet Electra Twinspark 350cc,135000,Indore,23000,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc ABS,160000,Delhi,1189,First Owner,2,350,Royal Enfield
+Royal Enfield Classic Desert Storm 500cc,200000,Bangalore,10000,First Owner,4,500,Royal Enfield
+Royal Enfield Himalayan 410cc Sleet Edition,200000,Bangalore,8094,First Owner,3,410,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,140000,Kanchipuram,7300,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,115000,Ghaziabad,12288,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,120000,Faridabad,14354,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc Dual Disc,120000,Jaipur,21000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,115000,Ahmedabad,17000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,125000,Delhi,33160,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,149700,Indore,4000,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,135000,Jalandhar,8000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Chrome 500cc,135000,Noida,11514,First Owner,3,500,Royal Enfield
+Royal Enfield Thunderbird 350cc,155551,Rajkot,3450,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,145000,Kottayam,18000,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,117000,Guwahati,13600,First Owner,3,350,Royal Enfield
+Royal Enfield Classic Desert Storm 500cc,145000,Bangalore,14717,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,126000,Rajkot,6000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,125600,Delhi,16000,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,175000,Mumbai,4500,First Owner,4,350,Royal Enfield
+Royal Enfield Himalayan 410cc Sleet Edition,165000,Hyderabad,22876,First Owner,3,410,Royal Enfield
+Royal Enfield Classic Stealth Black 500cc,170000,Mumbai,26000,First Owner,3,500,Royal Enfield
+Royal Enfield Classic 350cc,110000,Faridabad,7193,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,105000,Faridabad,8179,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,92000,Faridabad,10043,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,115000,Chennai,18500,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Chrome 500cc,152500,Mumbai,4700,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,160000,Thane,7299,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 500cc,135000,Chennai,7409,First Owner,4,500,Royal Enfield
+Royal Enfield Thunderbird 350cc,110000,Hyderabad,24815,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,130000,Ludhiana,4932,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc,137000,Satara,7500,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,115000,Faridabad,8252,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,103000,Gurgaon,23705,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,121000,Jaipur,20000,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc,150000,Pune,2900,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Electra Twinspark 350cc,120000,Delhi,9219,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc ABS,155000,Navi Mumbai,2900,First Owner,2,350,Royal Enfield
+Royal Enfield Classic Stealth Black 500cc,170000,Gurgaon,3334,First Owner,3,500,Royal Enfield
+Royal Enfield Classic 350cc,112000,Faridabad,12552,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,170000,Ambala,3100,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 500cc,140000,Delhi,8300,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,119200,Mumbai,12224,First Owner,4,350,Royal Enfield
+Royal Enfield Himalayan 410cc,105000,Noida,19829,First Owner,4,410,Royal Enfield
+Royal Enfield Himalayan 410cc Fi ABS,172000,Hyderabad,3165,First Owner,2,410,Royal Enfield
+Royal Enfield Bullet 350cc,94038,Delhi,18871,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,140000,Bangalore,1121,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,119000,Pune,8699,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,150000,Pune,4900,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc-Redditch Edition,130000,Pune,5300,First Owner,3,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,130000,Pune,5123,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,130000,Hyderabad,5900,First Owner,4,350,Royal Enfield
+Royal Enfield Continental GT 650cc,285000,Hyderabad,4500,First Owner,2,650,Royal Enfield
+Royal Enfield Thunderbird 350cc,165000,Visakhapatnam,5799,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Squadron Blue 500cc,165000,Pune,11500,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,145500,Ahmedabad,33486,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 500cc,110000,Chennai,15400,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,120000,Delhi,13560,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,110000,Naraingarh,24300,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,160000,Karwar,5000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 500cc,128000,Delhi,5541,First Owner,4,500,Royal Enfield
+Royal Enfield Thunderbird 350cc,115000,Viramgam,24000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Stealth Black 500cc,170000,Honavar,6000,First Owner,3,500,Royal Enfield
+Royal Enfield Classic 350cc,141000,Delhi,4625,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,134400,Delhi,1550,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc ABS,170000,Gurgaon,500,First Owner,2,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,125000,Delhi,9858,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet 350cc,123400,Bangalore,5000,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 500cc,153000,Ernakulam,10000,First Owner,3,500,Royal Enfield
+Royal Enfield Electra 350cc,90000,Jaipur,14330,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,113000,Chennai,14200,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,139000,Chennai,17000,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 500cc,179000,Pune,14000,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 500cc,180000,Delhi,4030,First Owner,4,500,Royal Enfield
+Royal Enfield Electra 350cc,99000,Pune,23397,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,170000,Delhi,6700,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 500cc,180000,Pune,2000,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,141900,Bangalore,7400,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc Signals Edition,165000,Faridabad,2791,First Owner,2,350,Royal Enfield
+Royal Enfield Classic 350cc,125000,Hyderabad,17677,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,150000,Kota,1947,First Owner,2,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc,150900,Bangalore,11850,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 500cc,170000,Hyderabad,2037,First Owner,4,500,Royal Enfield
+Royal Enfield Himalayan 410cc Fi ABS,194000,Thane,844,First Owner,2,410,Royal Enfield
+Royal Enfield Classic 350cc,130000,Delhi,24167,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,125000,Chenani,14800,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc Signals Edition,170000,Ahmedabad,7000,First Owner,2,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,117000,Mumbai,3400,First Owner,4,350,Royal Enfield
+Royal Enfield Himalayan 410cc,150000,Hyderabad,26157,First Owner,4,410,Royal Enfield
+Royal Enfield Classic 350cc,133000,Pune,14200,First Owner,3,350,Royal Enfield
+Royal Enfield Himalayan 410cc,135000,Mumbai,22444,First Owner,4,410,Royal Enfield
+Royal Enfield Classic 350cc,150000,Ahmedabad,10789,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc Dual Disc,125000,Faridabad,7303,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,140000,Bangalore,11166,First Owner,3,350,Royal Enfield
+Royal Enfield Interceptor 650cc,265500,Nellore,12000,First Owner,2,650,Royal Enfield
+Royal Enfield Classic 350cc Signals Edition,160000,Bangalore,18000,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 500cc,129000,Bangalore,4828,First Owner,4,500,Royal Enfield
+Royal Enfield Bullet Electra 350cc,135000,Pune,3900,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Twinspark Kickstart 350cc,105000,Faridabad,7255,First Owner,2,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc,141800,Bhopal,9200,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,95500,Nagaon,26000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 500cc,145700,Hyderabad,9400,First Owner,4,500,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc ABS,161100,Guwahati,1753,First Owner,2,350,Royal Enfield
+Royal Enfield Thunderbird X 500cc,158000,Jaisalmer,1500,First Owner,3,500,Royal Enfield
+Royal Enfield Classic 350cc,130000,Delhi,5580,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Electra Twinspark 350CC ABS,127000,Mumbai,83,First Owner,2,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,114000,Delhi,1661,First Owner,3,350,Royal Enfield
+Royal Enfield Himalayan 410cc,150900,Delhi,1500,First Owner,3,410,Royal Enfield
+Royal Enfield Thunderbird 350cc,150000,Lucknow,11306,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,100000,Ahmedabad,11738,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet 350cc,100000,Noida,4587,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,142000,Hyderabad,16690,First Owner,3,350,Royal Enfield
+Royal Enfield Himalayan 410cc Sleet ABS,175000,Alipore,1800,First Owner,2,410,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,148000,Bangalore,12050,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Electra Twinspark 350CC ABS,140000,Mumbai,2000,First Owner,2,350,Royal Enfield
+Royal Enfield Electra 350cc,130000,Faridabad,3688,First Owner,2,350,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,115000,Faridabad,9820,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,111000,Delhi,55532,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,130000,Bangalore,17500,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Stealth Black 500cc,170000,Sambalpur,5700,First Owner,3,500,Royal Enfield
+Royal Enfield Thunderbird 350cc,140000,Ahmedabad,11000,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,110000,Faridabad,11776,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,105000,Faridabad,15932,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,130000,Ghaziabad,19249,First Owner,2,350,Royal Enfield
+Royal Enfield Classic Stealth Black 500cc,162000,Noida,16659,First Owner,2,500,Royal Enfield
+Royal Enfield Classic 500cc,150000,Mumbai,8500,First Owner,4,500,Royal Enfield
+Royal Enfield Bullet 500cc,122000,Delhi,20472,First Owner,3,500,Royal Enfield
+Royal Enfield Standard 500cc,120000,Bangalore,18056,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,119000,Bangalore,8253,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Chrome 500cc,160000,Jaipur,14000,First Owner,4,500,Royal Enfield
+Royal Enfield Himalayan 410cc Fi,170000,Hyderabad,9500,First Owner,3,410,Royal Enfield
+Royal Enfield Thunderbird 350cc,111467,Hyderabad,3537,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Stealth Black 500cc,175000,Thane,16796,First Owner,3,500,Royal Enfield
+Royal Enfield Thunderbird 350cc,135000,Jaipur,13500,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,110000,Kolkata,9876,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,140000,Ghaziabad,7000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,135000,Delhi,12000,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc Dual Disc,130000,Faridabad,3734,First Owner,3,350,Royal Enfield
+Royal Enfield Electra 350cc,135000,Ahmedabad,10779,First Owner,2,350,Royal Enfield
+Royal Enfield Himalayan 410cc,150000,Pune,12000,First Owner,4,410,Royal Enfield
+Royal Enfield Bullet 350cc,100000,Bankura,18000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc Dual Disc,150000,Mumbai,8800,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet Electra 350cc,110000,Mumbai,22000,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,130000,Dehradun,3500,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,125000,Gurgaon,12800,First Owner,3,350,Royal Enfield
+Royal Enfield Himalayan 410cc,150900,Varanasi,1200,First Owner,3,410,Royal Enfield
+Royal Enfield Thunderbird 500cc,154000,Udaipur,301,First Owner,3,500,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,149000,Jalandhar,6600,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,130000,Rajkot,96046,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc-Redditch Edition,133500,Mumbai,1608,First Owner,2,350,Royal Enfield
+Royal Enfield Classic Squadron Blue 500cc,185000,Hyderabad,3004,First Owner,4,500,Royal Enfield
+Royal Enfield Thunderbird X 350cc,150000,Bangalore,27356,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,125000,Patna,7292,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Stealth Black 500cc,170000,Pune,18140,First Owner,3,500,Royal Enfield
+Royal Enfield Classic 350cc,120000,Hyderabad,45000,First Owner,4,350,Royal Enfield
+Royal Enfield Electra 350cc,106000,Dharamasala,6200,First Owner,4,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,160000,Pune,11689,First Owner,3,350,Royal Enfield
+Royal Enfield Continental GT 535cc,135000,Chennai,7582,First Owner,4,535,Royal Enfield
+Royal Enfield Bullet Electra Twinspark 350cc,116200,Vadodara,6000,First Owner,3,350,Royal Enfield
+Royal Enfield Classic Chrome 500cc ABS,215000,Delhi,417,First Owner,2,500,Royal Enfield
+Royal Enfield Himalayan 410cc,140000,Pune,4832,First Owner,4,410,Royal Enfield
+Royal Enfield Classic 350cc,130000,Delhi,24000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 500cc,175000,Gurgaon,2200,First Owner,4,500,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,115000,Delhi,10350,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,130000,Dharwar,8000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,134100,Delhi,1700,First Owner,4,350,Royal Enfield
+Royal Enfield Standard 500cc,110000,Gurgaon,14418,First Owner,4,500,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,136000,Tiruvallur,13333,First Owner,3,350,Royal Enfield
+Royal Enfield Standard 500cc,130000,Bangalore,33125,First Owner,4,500,Royal Enfield
+Royal Enfield Bullet 350cc,110000,Meerut,20764,First Owner,4,350,Royal Enfield
+Royal Enfield Standard 500cc,125000,Gurgaon,10409,First Owner,4,500,Royal Enfield
+Royal Enfield Classic Desert Storm 500cc,145000,Kathua,14000,First Owner,4,500,Royal Enfield
+Royal Enfield Thunderbird X 350cc ABS,169000,Bangalore,4411,First Owner,2,350,Royal Enfield
+Royal Enfield Classic 350cc-Redditch Edition Dual Disc,154400,Bangalore,8500,First Owner,3,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,125000,Bangalore,3679,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 350cc ABS,145000,Ghaziabad,12400,First Owner,2,350,Royal Enfield
+Royal Enfield Classic Chrome 500cc,171000,Bhiwani,3700,First Owner,4,500,Royal Enfield
+Royal Enfield Bullet Twinspark 350cc,110000,Gurgaon,8855,First Owner,3,350,Royal Enfield
+Royal Enfield Classic 350cc,105000,Delhi,10581,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird X 500cc,195000,Delhi,1768,First Owner,3,500,Royal Enfield
+Royal Enfield Classic Desert Storm 500cc Dual Disc,150000,Noida,5377,First Owner,3,500,Royal Enfield
+Royal Enfield Electra 350cc,120000,Delhi,2172,First Owner,3,350,Royal Enfield
+Royal Enfield Classic Stealth Black 500cc,195000,Delhi,1401,First Owner,3,500,Royal Enfield
+Royal Enfield Classic 350cc,120000,Delhi,3626,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,145000,Mumbai,10300,First Owner,4,350,Royal Enfield
+Royal Enfield Electra 350cc,92000,Noida,16499,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Electra 350cc,105000,Delhi,20000,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,124000,Delhi,6154,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,140000,Delhi,12739,First Owner,3,350,Royal Enfield
+Royal Enfield Classic Gunmetal Grey 350cc,135000,Pune,23688,First Owner,3,350,Royal Enfield
+Royal Enfield Bullet 350cc,100000,Bangalore,13265,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird 350cc,140000,Delhi,400,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,134100,Gurgaon,2750,First Owner,4,350,Royal Enfield
+Royal Enfield Electra 350cc,90000,Mumbai,10000,First Owner,3,350,Royal Enfield
+Royal Enfield Standard 500cc,161793,Delhi,2330,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,131500,Delhi,4200,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet Electra Twinspark 350cc,125000,Mumbai,20986,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,100000,Delhi,13190,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 350cc,125000,Mumbai,47757,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet 500cc,135000,Rohtak,6850,First Owner,3,500,Royal Enfield
+Royal Enfield Classic 350cc,150000,Bangalore,6410,First Owner,4,350,Royal Enfield
+Royal Enfield Bullet 350cc,130000,Gurgaon,18832,First Owner,4,350,Royal Enfield
+Royal Enfield Thunderbird X 350cc ABS,170200,Mumbai,1000,First Owner,2,350,Royal Enfield
+Royal Enfield Classic Desert Storm 500cc,160000,Noida,1754,First Owner,4,500,Royal Enfield
+Royal Enfield Classic 350cc,105000,Delhi,14779,First Owner,4,350,Royal Enfield
+Royal Enfield Classic 500cc,146006,Guwahati,8575,First Owner,4,500,Royal Enfield
